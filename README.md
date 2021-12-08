@@ -8,3 +8,9 @@ You will find 4 files in the zip file :
 - A file with model who detect closed and open eyes
 - And haar cascades file where you will find the model for the face detection 
 
+If you want to run the python code, you must install different packages :
+
+- tensorflow
+- opencv-python
+
+You can do that with this command in the consol : "pip install name_package"
