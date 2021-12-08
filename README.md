@@ -13,4 +13,4 @@ If you want to run the python code, you must install different packages :
 - tensorflow
 - opencv-python
 
-You can do that with this command in the consol : "pip install name_package"
+You can do that if you put "pip install name_package" in the kernel.
