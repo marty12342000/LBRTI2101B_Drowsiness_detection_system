@@ -5,6 +5,6 @@ You will find 4 files in the zip file :
 
 - The code of the interface detection system
 - A file with the different alarm
-- A file with model who detect closed eyes
+- A file with model who detect closed and open eyes
 - And haar cascades file where you will find the model for the face detection 
 
