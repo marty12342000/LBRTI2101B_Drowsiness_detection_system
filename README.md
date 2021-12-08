@@ -12,5 +12,7 @@ If you want to run the python code, you must install different packages :
 
 - tensorflow
 - opencv-python
+- pygame
+
 
 You can do that if you put "pip install name_package" in the kernel.
