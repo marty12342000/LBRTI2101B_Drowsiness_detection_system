@@ -15,5 +15,5 @@ To run the Python code, you need to install the following packages:
 - tensorflow
 - opencv-python
 - pygame
-- 
+
 You can install these packages by running the following command in your Python environment:
