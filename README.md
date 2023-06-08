@@ -1,18 +1,16 @@
-# LBRTI2101B_Drowsiness_detection_system
-A deep learning drowsiness detection system in python.
+A deep learning drowsiness detection system in Python.
 
-You will find 4 files in the zip file :
+Inside the zip file, you will find four files:
 
-- The code of the interface detection system
-- A file with the different alarm
-- A file with model who detect closed and open eyes
-- And haar cascades file where you will find the model for the face detection 
+1 The code for the interface of the drowsiness detection system.
+2 A file containing different alarm sounds.
+3 A file with a model that detects closed and open eyes.
+4 Haar cascades file, which contains the model for face detection.
 
-If you want to run the python code, you must install different packages :
+To run the Python code, you need to install the following packages:
 
 - tensorflow
 - opencv-python
 - pygame
-
-
-You can do that if you put "pip install name_package" in the kernel.
+- 
+You can install these packages by running the following command in your Python environment:
